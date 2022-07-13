@@ -1,0 +1,44 @@
+.row {
+  border: 2px solid black;
+}
+
+.navi,
+.left-1,
+.left-2,
+.right-1,
+.right-2,
+.footer {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.left-1,
+.left-2,
+.right-1,
+.right-2 {
+  height: 250px;
+}
+
+.navi {
+  background-color: #3ab0ff;
+}
+
+.left-1 {
+  background-color: #ffb562;
+}
+
+.right-1 {
+  background-color: #f87474;
+}
+
+.left-2 {
+  background-color: #d9534f;
+}
+
+.right-2 {
+  background-color: #96ceb4;
+}
+
+.footer {
+  background-color: #91c483;
+}
